@@ -1,0 +1,35 @@
+style
+body {margin: 10px;}
+.navbar {
+   overflow: hidden;
+   background-color: yellow;
+   position: floating;
+   width: 100%;
+   height: 40px;
+   }
+.navbar a {
+ float: left;
+ display: block;
+ color: red;
+ text-align: center;
+ padding: 2px 8px;
+ text-decoration: Comic Sans MS;
+ font-size: 17px;
+ }
+.navbar a:hover {
+ background: #6ee694;
+ }
+.main {
+ padding: 16px;
+ margin-top: 30px;
+margin-bottom: 30px;
+ height: 150px;
+ }
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+</style>
